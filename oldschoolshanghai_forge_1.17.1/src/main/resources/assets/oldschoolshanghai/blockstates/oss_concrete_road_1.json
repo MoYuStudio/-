@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "oldschoolshanghai:block/oss_concrete_road_1",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "oldschoolshanghai:block/oss_concrete_road_1"
+    },
+    "axis=z": {
+      "model": "oldschoolshanghai:block/oss_concrete_road_1",
+      "x": 90
+    }
+  }
+}
