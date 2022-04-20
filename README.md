@@ -1,1 +1,1 @@
-# BatterMC
+# BetterMC
